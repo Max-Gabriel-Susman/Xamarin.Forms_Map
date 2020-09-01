@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FF+RtFCwNuPesFeHnkkODbPze2xOaMkCChbpoYKMF/7loxNke3KVmW6p/DfJjcYCCRnsyHwXSJFbUUAXuzIAig==",
+  "success": true,
+  "projectFilePath": "/Users/MGS/Projects/Xamarin_Forms_Map/Xamarin_Forms_Map.iOS/Xamarin_Forms_Map.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/MGS/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/MGS/.nuget/packages/xamarin.forms/4.8.0.1364/xamarin.forms.4.8.0.1364.nupkg.sha512",
+    "/Users/MGS/.nuget/packages/xamarin.forms.maps/4.8.0.1364/xamarin.forms.maps.4.8.0.1364.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{6C182E13-4632-4FE2-AB6A-D8D9FA20FA82}|Default">
+  <MonoDevelop.Ide.ItemProperties.Xamarin__Forms__Map.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1D37476C-4497-4E06-A3CB-7F80C4290FAE" />
+  <MonoDevelop.Ide.ItemProperties.Xamarin__Forms__Map.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Xamarin_Forms_Map/MainPage.xaml" Line="2" Column="151" />
+      <File FileName="Xamarin_Forms_Map/MainPage.xaml.cs" Line="19" Column="42" />
+      <File FileName="Xamarin_Forms_Map.Android/MainActivity.cs" Line="54" Column="1" />
+      <File FileName="Xamarin_Forms_Map.Android/Properties/AndroidManifest.xml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Xamarin_Forms_Map" expanded="True" selected="True">
+            <Node name="Xamarin_Forms_Map" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="Xamarin_Forms_Map.Android" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
