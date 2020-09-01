@@ -14,10 +14,13 @@ namespace Xamarin_Forms_Map
         public MainPage()
         {
             InitializeComponent();
-            //Position position = new Position(36.9628066, -122.0194722);
-            //MapSpan mapSpan = new MapSpan(position, 0.01, 0.01);
-            //Map map = new Map(mapSpan);
-            Map map = new Map();
+            Position position = new Position(41.7377780, -111.8308331);
+            MapSpan mapSpan = new MapSpan(position, 0.01, 0.01);
+            Map map = new Map(mapSpan)
+            {
+                //MapType = MapType.Satellite
+            };
+            
             Content = map;
         }
     }
