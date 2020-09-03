@@ -2,8 +2,8 @@
 	.section	.rodata.env.str.1,"aMS",@progbits,1
 	.type	.L.env.str.1, @object
 .L.env.str.1:
-	.asciz	"com.companyname.xamarin_forms_map"
-	.size	.L.env.str.1, 34
+	.asciz	"com.MGS.XamarinFormsMap"
+	.size	.L.env.str.1, 24
 	.section	.data.application_config,"aw",@progbits
 	.type	application_config, @object
 	.p2align	3
@@ -72,7 +72,7 @@ mono_aot_mode_name:
 	.section	.rodata.env.str.8,"aMS",@progbits,1
 	.type	.L.env.str.8, @object
 .L.env.str.8:
-	.asciz	"8cba255f-da72-42ce-91d9-cf6faf9e064d"
+	.asciz	"47190c95-e95a-461f-83e1-17b2aeff328b"
 	.size	.L.env.str.8, 37
 	.section	.rodata.env.str.9,"aMS",@progbits,1
 	.type	.L.env.str.9, @object
