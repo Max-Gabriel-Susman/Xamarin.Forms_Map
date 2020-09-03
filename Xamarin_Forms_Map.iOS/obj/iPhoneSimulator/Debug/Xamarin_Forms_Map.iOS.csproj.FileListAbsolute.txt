@@ -52,9 +52,9 @@
 /Users/MGS/Projects/Xamarin_Forms_Map/Xamarin_Forms_Map.iOS/obj/iPhoneSimulator/Debug/Xamarin_Forms_Map.iOS.pdb
 /Users/MGS/Projects/Xamarin_Forms_Map/Xamarin_Forms_Map.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.dll
 /Users/MGS/Projects/Xamarin_Forms_Map/Xamarin_Forms_Map.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.iOS.dll
-/Users/MGS/Projects/Xamarin_Forms_Map/Xamarin_Forms_Map.iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
-/Users/MGS/Projects/Xamarin_Forms_Map/Xamarin_Forms_Map.iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
-/Users/MGS/Projects/Xamarin_Forms_Map/Xamarin_Forms_Map.iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
-/Users/MGS/Projects/Xamarin_Forms_Map/Xamarin_Forms_Map.iOS/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
-/Users/MGS/Projects/Xamarin_Forms_Map/Xamarin_Forms_Map.iOS/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
-/Users/MGS/Projects/Xamarin_Forms_Map/Xamarin_Forms_Map.iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/MGS/Projects/Xamarin_Forms_Map/Xamarin_Forms_Map.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/ibtool/_BundleResourceWithLogicalName.items
+/Users/MGS/Projects/Xamarin_Forms_Map/Xamarin_Forms_Map.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/_PartialAppManifest.items
+/Users/MGS/Projects/Xamarin_Forms_Map/Xamarin_Forms_Map.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/actool/_BundleResourceWithLogicalName.items
+/Users/MGS/Projects/Xamarin_Forms_Map/Xamarin_Forms_Map.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/coremlc/_PartialAppManifest.items
+/Users/MGS/Projects/Xamarin_Forms_Map/Xamarin_Forms_Map.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/coremlc/_BundleResourceWithLogicalName.items
+/Users/MGS/Projects/Xamarin_Forms_Map/Xamarin_Forms_Map.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.6/optimized/

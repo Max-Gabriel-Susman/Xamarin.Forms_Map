@@ -18,9 +18,10 @@ namespace Xamarin_Forms_Map
             MapSpan mapSpan = new MapSpan(position, 0.01, 0.01);
             Map map = new Map(mapSpan)
             {
-                //MapType = MapType.Satellite
+                //MapType = MapType.Hybrid
+                // potrentially add funcitonality to switch back to street maptype, IDK why you would though
             };
-            
+
             Content = map;
         }
     }
